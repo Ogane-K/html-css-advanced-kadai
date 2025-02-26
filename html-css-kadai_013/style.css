@@ -81,6 +81,7 @@ PC用のスタイル
     /* スマホナビゲーションのボタン */
     #menu-sp{
         /* 右上に固定 */
+        border: none;
         float: right;
         padding: 0;
     }
@@ -110,6 +111,8 @@ PC用のスタイル
         position: absolute;
         top: 20px;
         right: 20px;
+        border: none;
+        background-color: transparent;
     }
     /* ロゴ */
     #logo-sp{
